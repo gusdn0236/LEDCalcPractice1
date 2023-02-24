@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LEDCalcPractice1">
+    <output-path>$PROJECT_DIR$/out/artifacts/LEDCalcPractice1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LEDCalcPractice" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="LEDCalcPractice/web/웹" />
+    </root>
+  </artifact>
+</component>
